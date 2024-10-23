@@ -1,0 +1,44 @@
+
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/HD5ky45/1.jpg",
+      "title": "Exploring the JavaScript Universe",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co/c8ZK01x/boy1.png",
+      "posting_time": "2024-10-20T10:30:00Z",
+      "reading_time": 5,
+      "hashtags": ["#JavaScript", "#Programming", "#WebDevelopment"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/60h3Fs0/2.png",
+      "title": "Understanding Asynchronous Programming",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co/fVgnGnm/boy2.jpg",
+      "posting_time": "2024-10-19T14:15:00Z",
+      "reading_time": 8,
+      "hashtags": ["#Async", "#JavaScript", "#CodingTips"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/sbMNdSG/3.png",
+      "title": "Mastering CSS Grid and Flexbox",
+      "author": "David Lee",
+      "author_img": "https://i.ibb.co/RzLrrjh/girl1.jpg",
+      "posting_time": "2024-10-18T09:45:00Z",
+      "reading_time": 10,
+      "hashtags": ["#CSS", "#Frontend", "#Design"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/WHVNgsh/4.jpg",
+      "title": "A Guide to RESTful APIs",
+      "author": "Emily Johnson",
+      "author_img": "https://i.ibb.co/nsg4jh5/girl2.jpg",
+      "posting_time": "2024-10-17T16:00:00Z",
+      "reading_time": 6,
+      "hashtags": ["#APIs", "#Backend", "#REST"]
+    }
+  ]
+  
